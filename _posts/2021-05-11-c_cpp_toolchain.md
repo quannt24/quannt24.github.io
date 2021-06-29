@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "C/C++ Toolchains"
 date: Mon  7 Jun 08:23:36 +07 2021
 categories: C C++
