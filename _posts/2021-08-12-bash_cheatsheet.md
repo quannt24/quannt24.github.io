@@ -34,13 +34,13 @@ categories: Bash
 
 | | |
 |-|-|
-| ctrl + a | Go to the beginning of the line (Home) |
-| ctrl + e | Go to the End of the line (End) |
-| alt + b | Back (left) one word |
-| alt + f | Forward (right) one word |
-| ctrl + f | Forward one character |
-| ctrl + b | Backward one character |
-| ctrl + xx | Toggle between the start of line and current cursor position |
+| Ctrl + a | Go to the beginning of the line (Home) |
+| Ctrl + e | Go to the End of the line (End) |
+| Alt + b | Back (left) one word |
+| Alt + f | Forward (right) one word |
+| Ctrl + f | Forward one character |
+| Ctrl + b | Backward one character |
+| Ctrl + xx | Toggle between the start of line and current cursor position |
 
 ## 1.2. Editing
 
