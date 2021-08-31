@@ -23,7 +23,7 @@ email: quan.t.nguyen@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   There may be some nonsense description here.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://quannt24.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username: quannt24
 
